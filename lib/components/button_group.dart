@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
-class ButtonSection extends StatelessWidget {
+class ButtonGroup extends StatelessWidget {
+  const ButtonGroup({super.key});
+
   @override
   Widget build(BuildContext context) {
     Color color = Theme.of(context).primaryColor;

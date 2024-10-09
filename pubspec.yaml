@@ -20,6 +20,9 @@ flutter:
   uses-material-design: true
   assets:
     - ./lib/assets/images/montanhas.jpg
-    - ./lib/assets/images/montanhas.jpg
-    - ./lib/assets/images/montanhas.jpg
-    
+    - ./lib/assets/images/montanhas2.jpg
+    - ./lib/assets/images/montanhas3.jpg
+    - ./lib/assets/images/lencois.jpg
+    - ./lib/assets/images/lencois2.jpg
+    - ./lib/assets/images/lencois3.jpg
+
